@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "cBhkx4ga+oH+gqZ6PwjwbsgtmhSXBto/mX+C5Jbi4Hg=",
+  "Source": "QAForum",
+  "BasePath": "_content/QAForum",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QAForum\\wwwroot",
+      "Source": "QAForum",
+      "ContentRoot": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\",
+      "BasePath": "_content/QAForum",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\css\\site.css",
+      "SourceId": "QAForum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\",
+      "BasePath": "_content/QAForum",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\index.html",
+      "SourceId": "QAForum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\",
+      "BasePath": "_content/QAForum",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\js\\script.js",
+      "SourceId": "QAForum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ANERI\\source\\repos\\QAForum\\wwwroot\\",
+      "BasePath": "_content/QAForum",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}

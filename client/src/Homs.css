@@ -1,0 +1,36 @@
+.logo{
+    height: 100%;
+    width: 100%;
+    margin-left:-10px;
+}
+
+/* <----------------------------------------------------------------> */
+
+.qa_container {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: left;
+    padding: 10px;
+}
+
+
+.card-profile {
+    /* margin-left: 40%; */
+    /* margin-top: 5%; */
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+}
+
+.title-profile {
+    color: grey;
+    font-size: 18px;
+}
+.card-profile .profile-button{
+    background-color: #FFC048;
+    border-radius: 5px;
+    width: 60%;
+}
